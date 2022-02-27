@@ -1,0 +1,16 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "https://myaccount.google.com/lesssecureapps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node mailer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "nodemailer": "^6.7.2"
+  }
+}

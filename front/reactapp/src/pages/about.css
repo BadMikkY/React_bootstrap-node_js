@@ -1,0 +1,35 @@
+.Admin{
+height: 700px;
+    width: 1200px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+
+.Admincard{
+    height: 200px;
+    width: 300px;
+}
+.image
+{
+    height: 60px;
+    width: 60px;
+}
+
+.cost
+{
+    font-size: 60px;
+    font-style: italic;
+    color: aliceblue;
+}
+
+.button{
+    height: 60px;
+    width: 100px;
+}
+.aboutimg
+{
+    height: 600px;
+    width: 800px;
+}
+
